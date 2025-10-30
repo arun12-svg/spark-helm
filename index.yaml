@@ -3,12 +3,12 @@ entries:
   spark:
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T09:08:19.677278442Z"
+    created: "2025-10-30T09:15:53.12525427Z"
     description: Spark setup for Kubernetes (Spark 3.5.5)
-    digest: 985efa9951521e631fd07142f11e1b459edef1c54ddf75c14715b384da8646bb
+    digest: 595b07a18eaeca30b113c7a31c422e7da36020d6dd5ba8bbde9455dd9b804e44
     name: spark
     type: application
     urls:
     - https://arun12-svg.github.io/spark-helm/charts/spark-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-30T09:08:19.674399673Z"
+generated: "2025-10-30T09:15:53.124753403Z"
